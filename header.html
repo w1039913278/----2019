@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>智能家居头部</title>
+    <link rel="stylesheet" href="less/header.css">
+    <link rel="shortcut icon" href="img/favicon.png">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+</head>
+<body>
+<header>
+    <div class="nav">
+        <nav>
+            <a href="index.html">首页</a>
+            <a href="#">解决方案</a>
+            <a href="list.html">产品中心</a>
+            <a href="#">合作伙伴</a>
+            <a href="join.html">招商加盟</a>
+            <a href="about.html">关于我们</a>
+            <a href="page.html">页面展示</a>
+        </nav>
+        <span><img src="img/logo.svg" alt=""></span>
+    </div>
+</header>
+<script>
+    var head = document.getElementsByTagName("header")[0];
+    document.addEventListener("mousewheel", function (e) {
+        var ev = window.event||e;
+        if (document.documentElement.scrollTop>100){
+            head.style.backgroundColor ="black";
+            head.style.transaction = ".9s"
+        }else {
+            head.style.backgroundColor ="#F2F2F2";
+            head.style.transaction = ".9s"
+        }
+    })
+</script>
+<script>
+    let oNav = document.querySelector("nav");
+    let ta = document.getElementsByTagName("a");
+    // oNav.addEventListener("click",function (e) {
+    //         let ev = window.event||e;
+    //     // console.log(ev.target);
+    //     if(ev.target.innerText=="首页"){
+    //         window.open("index.html","_self")
+    //     }
+    //     if(ev.target.innerText=="招商加盟"){
+    //         window.open("join.html","_self")
+    //     }if (ev.target.innerText=="关于我们"){
+    //         window.open("about.html","_self")
+    //     }
+    //     if (ev.target.innerText=="页面展示"){
+    //         window.open("page.html","_self")
+    //     }
+    //     if (ev.target.innerText=="产品中心"){
+    //         window.open("list.html","_self")
+    //     }
+    // });
+    // console.log(window.location.search);
+</script>
+<script>
+
+    $(document).ready(function(){
+        $(".nav nav a").each(function(){
+            if($(this)[0].href==String(window.location)){
+                $(this).addClass("on").siblings().removeClass("on");
+            }
+        });
+    });
+
+</script>
+</body>
+</html>

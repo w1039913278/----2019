@@ -1,0 +1,238 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+//页面图片样式
+.page_img{
+  margin-top: 80px;
+  overflow: hidden;
+  width: 100%;
+  &>img{
+    width: 100%;
+  }
+}
+//页面轮播样式
+.plant{
+  width: 1280px;
+  margin: 50px auto 0;
+  &>.plant_tab{
+    display: flex;
+    &>h3{
+      font-size: 40px;
+      line-height: 50px;
+    }
+    &>div{
+      font-size: 14px;
+      &>p{
+        height: 25px;
+        line-height: 25px;
+      }
+    }
+  }
+  &>.carousel{
+    &>figure{
+      &>img{
+        width:460px;
+        height: 325px;
+      }
+    }
+    &>nav{
+      &>button{
+        border-radius: 10px;
+      }
+    }
+  }
+}
+//图形样式
+.figure{
+  width: 1280px;
+  margin: 50px auto 0;
+  &>.figure_tab{
+    display: flex;
+    &>h3{
+      font-size: 40px;
+      line-height: 50px;
+    }
+    &>div{
+      font-size: 14px;
+      &>p{
+        height: 25px;
+        line-height: 25px;
+      }
+    }
+  }
+  &>.figure_content{
+    &>ul{
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      height: 220px;
+      border-bottom: 1px dashed;
+      &>li{
+        width: 106px;
+        height: 106px;
+        border: 2px dashed;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+    }
+    &>ul:nth-of-type(1){
+      &>li{
+        &:nth-of-type(1){
+          background: url("../img/4-20.jpg") -60px -40px;
+        }
+        &:nth-of-type(2){
+          background: url("../img/4-20.jpg") -420px -40px;
+        }
+        &:nth-of-type(3){
+          background: url("../img/4-20.jpg") -777px -40px;
+        }
+        &:nth-of-type(4){
+          background: url("../img/4-20.jpg") -1135px -40px;
+        }
+      }
+    }
+    &>ul:nth-of-type(2){
+      &>li{
+        &:nth-of-type(1){
+          background: url("../img/4-20.jpg") -60px -415px;
+        }
+        &:nth-of-type(2){
+          background: url("../img/4-20.jpg") -420px -415px;
+        }
+        &:nth-of-type(3){
+          background: url("../img/4-20.jpg") -777px -415px;
+        }
+        &:nth-of-type(4){
+          background: url("../img/4-20.jpg") -1135px -415px;
+        }
+      }
+    }
+    &>ul:nth-of-type(3){
+      &>li{
+        &:nth-of-type(1){
+          background: url("../img/4-20.jpg") -60px -810px;
+        }
+        &:nth-of-type(2){
+          background: url("../img/4-20.jpg") -420px -810px;
+        }
+        &:nth-of-type(3){
+          background: url("../img/4-20.jpg") -777px -810px;
+        }
+        &:nth-of-type(4){
+          background: url("../img/4-20.jpg") -1135px -810px;
+        }
+      }
+    }
+    &>ul:nth-of-type(4){
+      &>li{
+        &:nth-of-type(1){
+          background: url("../img/4-20.jpg") -60px -1197px;
+        }
+        &:nth-of-type(2){
+          background: url("../img/4-20.jpg") -420px -1197px;
+        }
+        &:nth-of-type(3){
+          background: url("../img/4-20.jpg") -777px -1197px;
+        }
+        &:nth-of-type(4){
+          background: url("../img/4-20.jpg") -1135px -1197px;
+        }
+      }
+    }
+  }
+}
+//颜色样式
+.color{
+  width: 1280px;
+  margin: 50px auto 40px;
+  &>.color_tab{
+    display: flex;
+    &>h3{
+      font-size: 40px;
+      line-height: 50px;
+    }
+    &>div{
+      font-size: 14px;
+      &>p{
+        height: 25px;
+        line-height: 25px;
+      }
+    }
+  }
+  &>.color_text{
+   font-family: "楷体";
+    margin: 20px 0;
+   font-size: 20px;
+  }
+  &>.color_content{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    &>div{
+      width: 180px;
+      &>div{
+        width: 180px;
+        height: 180px;
+        border-radius: 70px;
+        &:nth-of-type(1){
+          background: #00A4A1;
+        }
+      }
+      &:nth-of-type(2){
+        &>div{
+          background: #d22a3e;
+        }
+      }
+      &:nth-of-type(3){
+        &>div{
+          background: #b5b5b5;
+        }
+      }
+      &:nth-of-type(4){
+        &>div{
+          background: #4359a2;
+        }
+      }
+      &>p{
+        height: 50px;
+        line-height: 50px;
+        font-size: 30px;
+        text-align: center;
+      }
+    }
+  }
+}
+.bakTop{
+  display: none;
+  position: fixed;
+  right: 40px;
+  bottom: 120px;
+  width: 64px;
+  height: 64px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px -3px rgba(0,0,0,.08);
+  opacity: 0.7;
+  background:#fff  url("../img/top.jpg") no-repeat center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

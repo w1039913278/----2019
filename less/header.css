@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+header {
+  width: 100%;
+  height: 80px;
+  margin: 0 auto;
+  line-height: 80px;
+  position: fixed;
+  z-index: 322;
+  top: 0;
+  background: #F2F2F2;
+  transition: 0.3s;
+}
+header > div {
+  width: 1280px;
+  margin: 0 auto;
+}
+header > div > nav {
+  float: right;
+  width: 960px;
+  display: flex;
+  justify-content: space-between;
+}
+header > div > nav > a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #848484;
+  font-weight: 700;
+}
+header > div > nav > a:hover {
+  color: #49A3AE;
+}
+.on {
+  color: #49A3AE;
+}
+/*# sourceMappingURL=header.css.map */

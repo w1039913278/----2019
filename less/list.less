@@ -1,0 +1,141 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+//轮播样式
+.plant_box{
+  margin-top: 80px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 560px;
+  &>.act{
+    opacity: 1;
+    z-index: 5;
+  }
+  &>div{
+    width: 100%;
+    height: 560px;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 1s;
+  }
+  &>div:nth-of-type(1){
+    background: url("../img/list1.jpg") no-repeat center;
+  }
+  &>div:nth-of-type(2){
+    background: url("../img/list2.jpg") no-repeat center;
+  }
+  &>ul{
+    width: 40px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 500px;
+    z-index: 20;
+    &>li{
+      cursor: pointer;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #ADADAD;
+    }
+    &>.choice{
+      background: #42A29B;
+    }
+  }
+}
+
+//内容样式
+section{
+  &>.box-img{
+    width: 100%;
+    //background: red;
+    &>.content{
+      width: 1100px;
+      margin: 0 auto ;
+      padding: 100px 0;
+      &>h3{
+        width: inherit;
+        text-align: center;
+        color: #5d5d5d;
+        font-size: 24px;
+        font-weight: 600;
+      }
+      &>h5{
+        margin: 30px auto;
+        background: #37a991;
+        width: 45px;
+        height: 3px;
+      }
+      &>.pict{
+        display: flex;
+        flex-wrap: wrap;
+        width: inherit;
+        position: relative;
+        justify-content: space-between;
+        &>div{
+          width: 350px;
+          height: 210px;
+          position: relative;
+          cursor: pointer;
+          //margin-right: 20px;
+          margin-bottom: 22px;
+          &>img{
+            width: inherit;
+            height: inherit;
+          }
+          &>p{
+            position: absolute;
+            left: 20px;
+            bottom: 18px;
+            font-size: 16px;
+            color: #484848;
+          }
+        }
+      }
+    }
+  }
+  &>div:nth-of-type(2n){
+    background: #f4f6f7;
+  }
+}
+//一键置顶样式
+.bakTop{
+  display: none;
+  position: fixed;
+  right: 40px;
+  bottom: 120px;
+  width: 64px;
+  height: 64px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px -3px rgba(0,0,0,.08);
+  opacity: 0.7;
+  background:#fff  url("../img/top.jpg") no-repeat center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

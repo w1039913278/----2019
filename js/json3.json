@@ -1,0 +1,452 @@
+{
+  "100101": [
+    {
+      "product":"img/derail/List1-1-1.jpg",
+      "title":"多功能智能主机R系列",
+      "scene":"img/derail/List1-1-2.jpg",
+      "parameter":"img/derail/List1-1-3.jpg",
+      "install":"img/derail/List1-1-4.jpg"
+    }
+  ],
+  "100102": [
+    {
+      "product":"img/derail/List1-2-1.jpg",
+      "title":"智能主机S系列",
+      "scene":"img/derail/List1-2-2.jpg",
+      "parameter":"img/derail/List1-2-3.jpg",
+      "install":"img/derail/List1-2-4.jpg"
+    }
+  ],
+  "100201": [
+    {
+      "product":"img/derail/List2-1-1.jpg",
+      "title":"博朗零火智能开关（轻触型）",
+      "scene":"img/derail/List2-1-2.jpg",
+      "parameter":"img/derail/List2-1-3.jpg",
+      "install":"img/derail/List2-1-4.jpg"
+    }
+  ],
+  "100202": [
+    {
+      "product":"img/derail/List2-2-1.jpg",
+      "title":"博睿情景开关",
+      "scene":"img/derail/List2-2-2.jpg",
+      "parameter":"img/derail/List2-1-3.jpg",
+      "install":"img/derail/List2-2-4.jpg"
+    }
+  ],
+  "100203": [
+    {
+      "product":"img/derail/List2-3-1.jpg",
+      "title":"人体感应智能开关（单火/零火）",
+      "scene":"img/derail/List2-3-2.jpg",
+      "parameter":"img/derail/List2-3-3.jpg",
+      "install":"img/derail/List2-2-4.jpg"
+    }
+  ],
+  "100204": [
+    {
+      "product":"img/derail/List2-4-1.jpg",
+      "title":"博睿智能手势开关",
+      "scene":"img/derail/List2-4-2.jpg",
+      "parameter":"img/derail/List2-4-3.jpg",
+      "install":"img/derail/List2-4-4.jpg"
+    }
+  ],
+  "100205": [
+    {
+      "product":"img/derail/List2-5-1.jpg",
+      "title":"博睿零火0-10V智能调光开关",
+      "scene":"img/derail/List2-5-2.jpg",
+      "parameter":"img/derail/List2-5-3.jpg",
+      "install":"img/derail/List2-5-4.jpg"
+    }
+  ],
+  "100206": [
+    {
+      "product":"img/derail/List2-6-1.jpg",
+      "title":"博睿零火可控硅智能调光开关",
+      "scene":"img/derail/List2-6-2.jpg",
+      "parameter":"img/derail/List2-6-3.jpg",
+      "install":"img/derail/List2-6-4.jpg"
+    }
+  ],
+  "100207": [
+    {
+      "product":"img/derail/List2-7-1.jpg",
+      "title":"博睿零火智能开关",
+      "scene":"img/derail/List2-7-2.jpg",
+      "parameter":"img/derail/List2-7-3.jpg",
+      "install":"img/derail/List2-7-4.jpg"
+    }
+  ],
+  "100208": [
+    {
+      "product":"img/derail/List2-8-1.jpg",
+      "title":"博睿单火智能开关",
+      "scene":"img/derail/List2-8-2.jpg",
+      "parameter":"img/derail/List2-8-3.jpg",
+      "install":"img/derail/List2-8-4.jpg"
+    }
+  ],
+  "100209": [
+    {
+      "product":"img/derail/List2-9-1.jpg",
+      "title":"博朗单火智能开关（轻触型）",
+      "scene":"img/derail/List2-9-2.jpg",
+      "parameter":"img/derail/List2-9-3.jpg",
+      "install":"img/derail/List2-9-4.jpg"
+    }
+  ],
+  "1002010": [
+    {
+      "product":"img/derail/List2-10-1.jpg",
+      "title":"大功率单火智能开关",
+      "scene":"img/derail/List2-10-2.jpg",
+      "parameter":"img/derail/List2-10-3.jpg",
+      "install":"img/derail/List2-10-4.jpg"
+    }
+  ],
+  "100301": [
+    {
+      "product":"img/derail/List3-1-1.jpg",
+      "title":"360度红外转发器",
+      "scene":"img/derail/List3-1-2.jpg",
+      "parameter":"img/derail/List3-1-3.jpg",
+      "install":"img/derail/List3-1-4.jpg"
+    }
+  ],
+  "100302": [
+    {
+      "product":"img/derail/List3-2-1.jpg",
+      "title":"智能插座(10A)",
+      "scene":"img/derail/List3-2-2.jpg",
+      "parameter":"img/derail/List3-2-3.jpg",
+      "install":"img/derail/List3-2-4.jpg"
+    }
+  ],
+  "100303": [
+    {
+      "product":"img/derail/List3-3-1.jpg",
+      "title":"多功能智能主机 R系列",
+      "scene":"img/derail/List3-3-2.jpg",
+      "parameter":"img/derail/List3-3-3.jpg",
+      "install":"img/derail/List3-3-4.jpg"
+    }
+  ],
+  "100401": [
+    {
+      "product":"img/derail/List4-1-1.jpg",
+      "title":"人体探测器（幕帘式）",
+      "scene":"img/derail/List4-1-2.jpg",
+      "parameter":"img/derail/List4-1-3.jpg",
+      "install":"img/derail/List4-1-4.jpg"
+    }
+  ],
+  "100402": [
+    {
+      "product":"img/derail/List4-2-1.jpg",
+      "title":"水浸探测器",
+      "scene":"img/derail/List4-2-2.jpg",
+      "parameter":"img/derail/List4-2-3.jpg",
+      "install":"img/derail/List4-2-4.jpg"
+    }
+  ],
+  "100403": [
+    {
+      "product":"img/derail/List4-3-1.jpg",
+      "title":"干接点信号报警器",
+      "scene":"img/derail/List4-3-2.jpg",
+      "parameter":"img/derail/List4-3-3.jpg",
+      "install":"img/derail/List4-3-4.jpg"
+    }
+  ],
+  "100404": [
+    {
+      "product":"img/derail/List4-4-1.jpg",
+      "title":"玻璃破碎报警器",
+      "scene":"img/derail/List4-4-2.jpg",
+      "parameter":"img/derail/List4-4-3.jpg",
+      "install":"img/derail/List4-4-4.jpg"
+    }
+  ],
+  "100405": [
+    {
+      "product":"img/derail/List4-5-1.jpg",
+      "title":"摄像头",
+      "scene":"img/derail/List4-5-2.jpg",
+      "parameter":"img/derail/List4-5-3.jpg",
+      "install":"img/derail/List4-5-4.jpg"
+    }
+  ],
+  "100406": [
+    {
+      "product":"img/derail/List4-6-1.jpg",
+      "title":"燃气报警器",
+      "scene":"img/derail/List4-6-2.jpg",
+      "parameter":"img/derail/List4-6-3.jpg",
+      "install":"img/derail/List4-6-4jpg"
+    }
+  ],
+  "100407": [
+    {
+      "product":"img/derail/List4-7-1jpg",
+      "title":"GSM卡电话拨号报警器",
+      "scene":"img/derail/List4-7-2jpg",
+      "parameter":"img/derail/List4-7-3jpg",
+      "install":"img/derail/List4-7-4.jpg"
+    }
+  ],
+  "100408": [
+    {
+      "product":"img/derail/List4-8-1.jpg",
+      "title":"警号",
+      "scene":"img/derail/List4-8-2.jpg",
+      "parameter":"img/derail/List4-8-3.jpg",
+      "install":"img/derail/List4-8-4.jpg"
+    }
+  ],
+  "100409": [
+    {
+      "product":"img/derail/List4-9-1.jpg",
+      "title":"烟雾报警器",
+      "scene":"img/derail/List4-9-2.jpg",
+      "parameter":"img/derail/List4-9-3.jpg",
+      "install":"img/derail/List4-9-4.jpg"
+    }
+  ],
+  "1004010": [
+    {
+      "product":"img/derail/List4-10-1.jpg",
+      "title":"人体探测器",
+      "scene":"img/derail/List4-10-2.jpg",
+      "parameter":"img/derail/List4-10-3.jpg",
+      "install":"img/derail/List4-10-4.jpg"
+    }
+  ],
+  "100501": [
+    {
+      "product":"img/derail/List5-1-1.jpg",
+      "title":"窗帘电机",
+      "scene":"img/derail/List4-9-2.jpg",
+      "parameter":"img/derail/List4-9-3.jpg",
+      "install":"img/derail/List4-9-4.jpg"
+    }
+  ],
+  "100502": [
+    {
+      "product":"img/derail/List5-2-1.jpg",
+      "title":"链式推窗器",
+      "scene":"img/derail/List5-2-2.jpg",
+      "parameter":"img/derail/List5-2-3.jpg",
+      "install":"img/derail/List5-2-4.jpg"
+    }
+  ],
+  "100503": [
+    {
+      "product":"img/derail/List5-3-1.jpg",
+      "title":"智能门锁",
+      "scene":"img/derail/List5-3-2.jpg",
+      "parameter":"img/derail/List5-3-3.jpg",
+      "install":"img/derail/List5-3-4.jpg"
+    }
+  ],
+  "100504": [
+    {
+      "product":"img/derail/List5-4-1.jpg",
+      "title":"门磁",
+      "scene":"img/derail/List5-4-2.jpg",
+      "parameter":"img/derail/List5-4-3.jpg",
+      "install":"img/derail/List5-4-4.jpg"
+    }
+  ],
+  "100505": [
+    {
+      "product":"img/derail/List5-5-1.jpg",
+      "title":"干接点窗帘控制器",
+      "scene":"img/derail/List5-5-2.jpg",
+      "parameter":"img/derail/List5-5-3.jpg",
+      "install":"img/derail/List5-5-4.jpg"
+    }
+  ],
+  "100506": [
+    {
+      "product":"img/derail/List5-6-1.jpg",
+      "title":"博朗强电窗帘控制器",
+      "scene":"img/derail/List5-6-2.jpg",
+      "parameter":"img/derail/List5-6-3.jpg",
+      "install":"img/derail/List5-6-4.jpg"
+    }
+  ],
+  "100507": [
+    {
+      "product":"img/derail/List5-7-1.jpg",
+      "title":"博睿强电窗帘控制器",
+      "scene":"img/derail/List5-7-2.jpg",
+      "parameter":"img/derail/List5-7-3.jpg",
+      "install":"img/derail/List5-7-4.jpg"
+    }
+  ],
+  "100601": [
+    {
+      "product":"img/derail/List6-1-1.jpg",
+      "title":"零火液晶情景面板",
+      "scene":"img/derail/List6-1-2.jpg",
+      "parameter":"img/derail/List6-1-3.jpg",
+      "install":"img/derail/List6-1-4.jpg"
+    }
+  ],
+  "100602": [
+    {
+      "product":"img/derail/List6-2-1.jpg",
+      "title":"博睿零火四键情景",
+      "scene":"img/derail/List6-2-2.jpg",
+      "parameter":"img/derail/List6-2-3.jpg",
+      "install":"img/derail/List6-2-4.jpg"
+    }
+  ],
+  "100603": [
+    {
+      "product":"img/derail/List6-3-1.jpg",
+      "title":"四键情景面板（便携式）",
+      "scene":"img/derail/List6-3-2.jpg",
+      "parameter":"img/derail/List6-3-3.jpg",
+      "install":"img/derail/List6-3-4.jpg"
+    }
+  ],
+  "100604": [
+    {
+      "product":"img/derail/List6-4-1.jpg",
+      "title":"博睿四键情景面板（电容屏）",
+      "scene":"img/derail/List6-4-2.jpg",
+      "parameter":"img/derail/List6-4-3.jpg",
+      "install":"img/derail/List6-4-4.jpg"
+    }
+  ],
+  "100605": [
+    {
+      "product":"img/derail/List6-5-1.jpg",
+      "title":"博睿四键情景面板（电容屏）-卧室",
+      "scene":"img/derail/List6-5-2.jpg",
+      "parameter":"img/derail/List6-5-3.jpg",
+      "install":"img/derail/List6-5-4.jpg"
+    }
+  ],
+  "100701": [
+    {
+      "product":"img/derail/List7-1-1.jpg",
+      "title":"室内机BLHC-ZJ-S2（10寸屏）",
+      "scene":"img/derail/List7-1-2.jpg",
+      "parameter":"img/derail/List7-1-3.jpg",
+      "install":"img/derail/List7-1-4.jpg"
+    }
+  ],
+  "100702": [
+    {
+      "product":"img/derail/List7-2-1.jpg",
+      "title":"室内机BLHC-ZJ-S1（7寸屏）",
+      "scene":"img/derail/List7-2-2.jpg",
+      "parameter":"img/derail/List7-2-3.jpg",
+      "install":"img/derail/List7-2-4.jpg"
+    }
+  ],
+  "100703": [
+    {
+      "product":"img/derail/List7-3-1.jpg",
+      "title":"门口机BLHC-SWJ-MK2（10寸液晶屏）",
+      "scene":"img/derail/List7-3-2.jpg",
+      "parameter":"img/derail/List7-3-3.jpg",
+      "install":"img/derail/List7-3-4.jpg"
+    }
+  ],
+  "100704": [
+    {
+      "product":"img/derail/List7-4-1.jpg",
+      "title":"门口机BLHC-SWJ-MK1（3.5寸液晶屏）",
+      "scene":"img/derail/List7-4-2.jpg",
+      "parameter":"img/derail/List7-4-3.jpg",
+      "install":"img/derail/List7-4-4.jpg"
+    }
+  ],
+  "100801": [
+    {
+      "product":"img/derail/List8-1-1.jpg",
+      "title":"旋转式喷灌器",
+      "scene":"img/derail/List8-1-2.jpg",
+      "parameter":"img/derail/List8-1-3.jpg",
+      "install":"img/derail/List8-1-4.jpg"
+    }
+  ],
+  "100802": [
+    {
+      "product":"img/derail/List8-2-1.jpg",
+      "title":"可调节旋转喷灌器",
+      "scene":"img/derail/List8-2-2.jpg",
+      "parameter":"img/derail/List8-2-3.jpg",
+      "install":"img/derail/List8-2-4.jpg"
+    }
+  ],
+  "100803": [
+    {
+      "product":"img/derail/List8-3-1.jpg",
+      "title":"电动阀门",
+      "scene":"img/derail/List8-3-2.jpg",
+      "parameter":"img/derail/List8-3-3.jpg",
+      "install":"img/derail/List8-3-4.jpg"
+    }
+  ],
+  "100901": [
+    {
+      "product":"img/derail/List9-1-1.jpg",
+      "title":"中央空调控制器",
+      "scene":"img/derail/List9-1-2.jpg",
+      "parameter":"img/derail/List9-1-3.jpg",
+      "install":"img/derail/List9-1-4.jpg"
+    }
+  ],
+  "100902": [
+    {
+      "product":"img/derail/List9-2-1.jpg",
+      "title":"风雨感应器",
+      "scene":"img/derail/List9-2-2.jpg",
+      "parameter":"img/derail/List9-2-3.jpg",
+      "install":"img/derail/List9-2-4.jpg"
+    }
+  ],
+  "101001": [
+    {
+      "product":"img/derail/List10-1-1.jpg",
+      "title":"投影机",
+      "scene":"img/derail/List10-1-2.jpg",
+      "parameter":"img/derail/List10-1-3.jpg",
+      "install":"img/derail/List10-1-4.jpg"
+    }
+  ],
+  "101002": [
+    {
+      "product":"img/derail/List10-2-1.jpg",
+      "title":"投影幕布",
+      "scene":"img/derail/List10-2-2.jpg",
+      "parameter":"img/derail/List10-2-3.jpg",
+      "install":"img/derail/List10-2-4.jpg"
+    }
+  ],
+  "101003": [
+    {
+      "product":"img/derail/List10-3-1.jpg",
+      "title":"音视频矩阵",
+      "scene":"img/derail/List10-3-2.jpg",
+      "parameter":"img/derail/List10-3-3.jpg",
+      "install":"img/derail/List10-3-4.jpg"
+    }
+  ],
+  "101004": [
+    {
+      "product":"img/derail/List10-4-1.jpg",
+      "title":"背景音乐",
+      "scene":"img/derail/List10-4-2.jpg",
+      "parameter":"img/derail/List10-4-3.jpg",
+      "install":"img/derail/List10-4-4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.about-us {
+  margin-top: 80px;
+  width: 100%;
+  overflow: hidden;
+}
+.about-us > img {
+  width: 100%;
+}
+.brand {
+  margin-top: 40px;
+  width: 100%;
+}
+.brand > h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+}
+.brand > .brand_tab {
+  text-align: center;
+  color: #2c2c2c;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.brand > .brand_tab > ul:nth-of-type(1) {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.brand > .brand_tab > ul:nth-of-type(1) > li {
+  background: #565656;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.brand > .brand_tab > ul:nth-of-type(1) > li:nth-of-type(1) {
+  width: 12px;
+  height: 12px;
+}
+.brand > .brand_tab > ul:nth-of-type(1) > li:nth-of-type(2) {
+  width: 17px;
+  height: 17px;
+  margin: 0 15px;
+}
+.brand > .brand_tab > ul:nth-of-type(2) {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.brand > .brand_tab > ul:nth-of-type(2) > li {
+  background: #565656;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.brand > .brand_tab > ul:nth-of-type(2) > li:nth-of-type(3) {
+  width: 12px;
+  height: 12px;
+}
+.brand > .brand_tab > ul:nth-of-type(2) > li:nth-of-type(2) {
+  width: 17px;
+  height: 17px;
+  margin: 0 15px;
+}
+.brand > .brand_content {
+  margin: 40px auto ;
+  display: flex;
+  width: 1280px;
+}
+.brand > .brand_content > div > h3 {
+  font-size: 30px;
+  font-family: "楷体";
+  padding-left: 20px;
+}
+.brand > .brand_content > div > p {
+  margin-top: 50px;
+  padding: 0 25px;
+  line-height: 28px;
+}
+.brand > .brand_content > div:nth-of-type(1) {
+  width: 455px;
+}
+.brand > .brand_content > div:nth-of-type(1) > div {
+  height: 225px;
+  overflow: hidden;
+}
+.brand > .brand_content > div:nth-of-type(1) > div:nth-of-type(1) {
+  border-bottom: 2px solid #D7D7D7;
+  background: url("../img/3-5.jpg") no-repeat right center;
+}
+.brand > .brand_content > div:nth-of-type(1) > div > h3 {
+  font-size: 30px;
+  font-family: "楷体";
+}
+.brand > .brand_content > div:nth-of-type(1) > div > p {
+  margin-top: 80px;
+  font-size: 35px;
+  color: #3663B1;
+}
+.brand > .brand_content > div:nth-of-type(1) > :nth-of-type(2) {
+  background: url("../img/3-3.jpg") no-repeat right bottom;
+}
+.brand > .brand_content > div:nth-of-type(2) {
+  width: 410px;
+  background: url("../img/3-3.jpg") no-repeat center bottom;
+  border-left: 2px solid #D7D7D7;
+  border-right: 2px solid #D7D7D7;
+}
+.brand > .brand_content > div:nth-of-type(3) {
+  width: 415px;
+  background: url("../img/3-2.jpg") no-repeat center bottom;
+}
+.course {
+  margin-top: 40px;
+  width: 100%;
+}
+.course > h4 {
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+}
+.course > .course_tab {
+  text-align: center;
+  color: #2c2c2c;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.course > .course_tab > ul:nth-of-type(1) {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.course > .course_tab > ul:nth-of-type(1) > li {
+  background: #565656;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.course > .course_tab > ul:nth-of-type(1) > li:nth-of-type(1) {
+  width: 12px;
+  height: 12px;
+}
+.course > .course_tab > ul:nth-of-type(1) > li:nth-of-type(2) {
+  width: 17px;
+  height: 17px;
+  margin: 0 15px;
+}
+.course > .course_tab > ul:nth-of-type(2) {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.course > .course_tab > ul:nth-of-type(2) > li {
+  background: #565656;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+.course > .course_tab > ul:nth-of-type(2) > li:nth-of-type(3) {
+  width: 12px;
+  height: 12px;
+}
+.course > .course_tab > ul:nth-of-type(2) > li:nth-of-type(2) {
+  width: 17px;
+  height: 17px;
+  margin: 0 15px;
+}
+.course > .course_content {
+  overflow: hidden;
+  margin: 40px auto ;
+  width: 100%;
+  height: 600px;
+  background: url("../img/3-.jpg") no-repeat center;
+  position: relative;
+}
+.course > .course_content > .calendar {
+  display: flex;
+  width: 100%;
+  height: 10px;
+  background: #8B8989;
+  position: absolute;
+  top: 500px;
+  align-items: center;
+}
+.course > .course_content > .calendar > li {
+  cursor: pointer;
+  background: #EEEEEE;
+  width: 15px;
+  height: 15px;
+  border: 1px solid #8B8989;
+  border-radius: 50%;
+  position: relative;
+}
+.course > .course_content > .calendar > li > p {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  width: 100px;
+  position: absolute;
+  top: 20px;
+  left: -40px;
+}
+.course > .course_content > .calendar > .act {
+  width: 20px;
+  height: 20px;
+  background: #00B0BA;
+}
+.course > .course_content > .course_history {
+  overflow: hidden;
+  margin: 100px auto 0;
+  position: relative;
+  width: 1000px;
+  height: 350px;
+  background: white;
+}
+.course > .course_content > .course_history > .course_text {
+  width: 16000px;
+  height: inherit;
+  position: absolute;
+  left: -1000px;
+  display: flex;
+}
+.course > .course_content > .course_history > .course_text > div {
+  width: 1000px;
+  height: 350px;
+  text-align: center;
+  padding-top: 30px;
+}
+.course > .course_content > .course_history > .course_text > div > p {
+  padding: 20px 25%;
+  font-size: 22px;
+  line-height: 30px;
+}
+.course > .course_content > .course_history > .btn1 {
+  cursor: pointer;
+  width: 28px;
+  height: 38px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.course > .course_content > .course_history > .btn2 {
+  cursor: pointer;
+  width: 28px;
+  height: 38px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.bakTop {
+  display: none;
+  position: fixed;
+  right: 40px;
+  bottom: 120px;
+  width: 64px;
+  height: 64px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.08);
+  opacity: 0.7;
+  background: #fff url("../img/top.jpg") no-repeat center;
+}
+/*# sourceMappingURL=about.css.map */
